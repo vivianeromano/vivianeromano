@@ -2,8 +2,8 @@
  
  <div>
   <a href="https://github.com/vivianeromano">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vivianeromano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,contribs"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianeromano&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=vivianeromano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,contribs"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianeromano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
